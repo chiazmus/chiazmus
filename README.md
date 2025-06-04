@@ -7,7 +7,7 @@ I'm Andrew, a CS student with a lot of interests!
     - A recipe website for my grandma
     - A retro BASIC emulator/virtual machine
 
-### Programming Languages (*I know, HTML and CSS don't really count*)
+### Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
